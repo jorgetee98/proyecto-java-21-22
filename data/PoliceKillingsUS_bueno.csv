@@ -1,0 +1,530 @@
+nombre,fecha,forma,armado,edad,genero,estado,enfermedad_mental,rango_de_pobreza
+Tim Elliot,02/01/15,shot,gun,53,M,WA,TRUE,78.8
+Lewis Lee Lembke,02/01/15,shot,gun,47,M,OR,FALSE,29.1
+John Paul Quintero,03/01/15,shot and Tasered,unarmed,23,M,KS,FALSE,25.5
+Matthew Hoffman,04/01/15,shot,toy weapon,32,M,CA,TRUE,30.7
+Michael Rodriguez,04/01/15,shot,nail gun,39,M,CO,FALSE,42
+Kenneth Joe Brown,04/01/15,shot,gun,18,M,OK,FALSE,11.2
+Kenneth Arnold Buck,05/01/15,shot,gun,22,M,AZ,FALSE,26.7
+Brock Nichols,06/01/15,shot,gun,35,M,KS,FALSE,30.4
+Autumn Steele,06/01/15,shot,unarmed,34,F,IA,FALSE,9.7
+Leslie Sapp III,06/01/15,shot,toy weapon,47,M,PA,FALSE,41.3
+Patrick Wetter,06/01/15,shot and Tasered,knife,25,M,CA,FALSE,27.7
+Ron Sneed,07/01/15,shot,gun,31,M,TX,FALSE,27.5
+Hashim Hanif Ibn Abdul-Rasheed,07/01/15,shot,knife,41,M,OH,TRUE,24.5
+Nicholas Ryan Brickman,07/01/15,shot,gun,30,M,IA,FALSE,13.8
+Omarr Julian Maximillian Jackson,07/01/15,shot,gun,37,M,LA,FALSE,31.7
+Loren Simpson,08/01/15,shot,vehicle,28,M,MT,FALSE,16.7
+James Dudley Barker,08/01/15,shot,shovel,42,M,UT,FALSE,19.1
+Artago Damon Howard,08/01/15,shot,unarmed,36,M,AR,FALSE,8.6
+Thomas Hamby,08/01/15,shot,gun,49,M,UT,FALSE,37.6
+Jimmy Foreman,09/01/15,shot,gun,71,M,AR,FALSE,31.6
+Andy Martinez,09/01/15,shot,gun,33,M,TX,FALSE,18.8
+Tommy Smith,11/01/15,shot,gun,39,M,IL,TRUE,22.4
+Brian  Barbosa,11/01/15,shot,gun,23,M,CA,FALSE,28.3
+Salvador Figueroa,11/01/15,shot and Tasered,gun,29,M,NV,FALSE,13
+John Edward O'Keefe,13/01/15,shot,gun,34,M,NM,FALSE,24.7
+Richard McClendon,13/01/15,shot,knife,43,M,TX,TRUE,20.3
+Marcus Golden,14/01/15,shot,vehicle,24,M,MN,FALSE,31.8
+Michael Goebel,14/01/15,shot,vehicle,29,M,MO,FALSE,24.1
+Mario Jordan,14/01/15,shot,gun,34,M,VA,TRUE,22.2
+Talbot Schroeder,14/01/15,shot,knife,75,M,NJ,FALSE,6.8
+Robert Edwards,14/01/15,shot,gun,68,M,TX,FALSE,15.7
+Jeffrey R. Nielson,14/01/15,shot,knife,34,M,UT,FALSE,28.6
+Donte Sowell,15/01/15,shot,gun,27,M,IN,FALSE,19.1
+Kavonda Earl Payton,15/01/15,shot,gun,39,M,CO,FALSE,7.1
+Quincy Reed Reindl,15/01/15,shot,gun,24,M,MN,TRUE,38.2
+Jose Ceja,15/01/15,shot,knife,36,M,CA,TRUE,26.3
+Nathan Massey,15/01/15,shot,gun,33,M,LA,FALSE,30.1
+Scott Hall,16/01/15,shot,gun,41,M,TX,FALSE,25.3
+Zaki Shinwary,16/01/15,shot and Tasered,knife,48,M,CA,FALSE,44.9
+Terence Walker,17/01/15,shot,gun,21,M,OK,FALSE,8.1
+Pablo Meza,17/01/15,shot,gun,24,M,CA,FALSE,28.8
+Daniel Brumley,17/01/15,shot,knife,27,M,TX,FALSE,39.1
+Jonathan Guillory,18/01/15,shot,gun,32,M,AZ,TRUE,42.9
+Carter Castle,18/01/15,shot and Tasered,gun,67,M,KY,TRUE,36.7
+Paul Campbell,19/01/15,shot,knife,49,M,MA,FALSE,0.2
+Dewayne Carr,20/01/15,shot,vehicle,42,M,AZ,FALSE,30.9
+Todd Allen Hodge,21/01/15,shot,gun,36,M,CA,FALSE,32.9
+Miguel Angel de Santos-Rodriguez,21/01/15,shot,gun,36,M,TX,FALSE,20.5
+Isaac Holmes,21/01/15,shot,gun,19,M,MO,FALSE,30.9
+Andrew Toto,21/01/15,shot,gun,54,M,NH,TRUE,12.7
+Tiano Meton,22/01/15,shot,toy weapon,25,M,TX,FALSE,41.2
+Kristiana Coignard,22/01/15,shot and Tasered,knife,17,F,TX,TRUE,0.5
+Robert Francis Mesch,23/01/15,shot,gun,61,M,TX,TRUE,4
+Demaris Turner,23/01/15,shot,vehicle,29,M,FL,FALSE,19.4
+Jose Antonio Espinoza Ruiz,23/01/15,shot,knife,56,M,TX,FALSE,60.3
+Wendell King,24/01/15,shot,gun,40,M,TX,FALSE,47.6
+Daryl Myler,24/01/15,shot,gun,45,M,ID,FALSE,18.2
+Darin Hutchins,24/01/15,shot,knife,26,M,MD,TRUE,53.7
+Orlando Jude Lopez,25/01/15,shot,gun,26,M,CO,FALSE,20.7
+William Campbell,25/01/15,shot,gun,59,M,NJ,FALSE,19.2
+Jessie Hernandez,26/01/15,shot,vehicle,17,F,CO,FALSE,17.3
+Raymond Kmetz,26/01/15,shot,gun,68,M,MN,TRUE,27.8
+Joshua Omar Garcia,26/01/15,shot,unarmed,24,M,TX,FALSE,34.7
+David Garcia,26/01/15,shot,knife,34,M,CA,TRUE,33
+Nicolas Leland Tewa,27/01/15,shot,vehicle,26,M,AZ,FALSE,22.5
+Chris Ingram,27/01/15,shot,gun,29,M,AZ,FALSE,39.7
+Jermonte Fletcher,27/01/15,shot,gun,33,M,OH,FALSE,11.5
+Tiffany Terry,27/01/15,shot,knife,39,F,NE,TRUE,19.2
+Alan Lance Alverson,28/01/15,shot,gun,45,M,TX,FALSE,10.8
+Matautu Nuu,28/01/15,shot and Tasered,hammer,35,M,CA,TRUE,23.8
+Cody Karasek,28/01/15,shot,gun,26,M,TX,FALSE,32.4
+Ralph Willis,29/01/15,shot,unarmed,42,M,OK,FALSE,0.6
+Alan James,29/01/15,shot,gun,31,M,MI,TRUE,25.3
+John Barry Marshall,30/01/15,shot,gun,48,M,MT,FALSE,5.8
+Victor Manuel Reyes,31/01/15,shot,gun,31,M,TX,FALSE,79.4
+Edward Donnell Bright,31/01/15,shot and Tasered,knife,54,M,MD,TRUE,31.9
+Jacob Haglund,02/02/15,shot,gun,17,M,MI,FALSE,36.6
+David Kassick,02/02/15,shot,unarmed,59,M,PA,FALSE,32.2
+Francis Murphy Rose III,02/02/15,shot,gun,42,M,CA,TRUE,30
+Ledarius D. Williams,03/02/15,shot,gun,23,M,MO,FALSE,17.2
+Yuvette Henderson,03/02/15,shot,gun,38,F,CA,FALSE,18.9
+Dewayne Deshawn Ward,03/02/15,shot,knife,29,M,CA,TRUE,7.4
+Anthony Purvis,03/02/15,shot,gun,45,M,GA,TRUE,29.1
+Jeremy Lett,04/02/15,shot,unarmed,28,M,FL,FALSE,39.6
+Izzy Colon,04/02/15,shot,gun,37,M,FL,FALSE,0.9
+Salvador Muna,04/02/15,shot,gun,28,M,AZ,FALSE,25.8
+Joaquin Hernandez,04/02/15,shot,unarmed,28,M,AZ,FALSE,25
+Jimmy Ray Robinson Jr.,04/02/15,shot,gun,51,M,TX,FALSE,25.1
+Markell Atkins,04/02/15,shot,knife,36,M,TN,FALSE,22.4
+Paul Alfred Eugene Johnson,05/02/15,shot,gun,59,M,CA,FALSE,19.8
+Herbert Hill,06/02/15,shot,gun,25,M,OK,FALSE,4.9
+John  Sawyer,07/02/15,shot,toy weapon,26,M,CA,FALSE,19.9
+James Allen,07/02/15,shot,gun,74,M,NC,FALSE,33.6
+John Martin Whittaker,08/02/15,shot,gun,33,M,AK,FALSE,38.6
+Sawyer Flache,08/02/15,shot,gun,27,M,TX,FALSE,14.7
+Vincent Cordaro,08/02/15,shot,gun,57,M,NY,TRUE,30.12
+Joseph Paffen,08/02/15,shot,gun,46,M,FL,FALSE,16.9
+Larry Hostetter,08/02/15,shot,gun,41,M,TX,FALSE,16.9
+Kenneth Kreyssig,09/02/15,shot,gun,61,M,ME,TRUE,6.6
+Desmond Luster,09/02/15,shot,gun,45,M,TX,FALSE,16.4
+Antonio Zambrano-Montes,10/02/15,shot and Tasered,unarmed,35,M,WA,TRUE,29.3
+Anthony Bess,10/02/15,shot,gun,49,M,TN,FALSE,14.01
+Brian Fritze,10/02/15,shot,gun,45,M,CO,TRUE,31.4
+Phillip Watkins,11/02/15,shot,knife,23,M,CA,TRUE,19.5
+Fletcher Ray Stewart,11/02/15,shot,toy weapon,46,M,AL,TRUE,15
+Jonathan Larry Harden,13/02/15,shot,vehicle,23,M,CA,FALSE,21.2
+Andres Lara-Rodriguez,13/02/15,shot,gun,21,M,KS,FALSE,41.3
+Richard Carlin,13/02/15,shot,unarmed,35,M,PA,FALSE,10
+Matthew D. Belk,13/02/15,shot,gun,27,M,TN,FALSE,32.1
+Daniel Mejia,13/02/15,shot,knife,37,M,AZ,TRUE,24.8
+Jason C. Hendrix,14/02/15,shot,gun,16,M,MD,TRUE,20.1
+Roy Joy Day,14/02/15,shot,gun,51,M,TX,FALSE,24
+Lavall Hall,15/02/15,shot and Tasered,unarmed,25,M,FL,TRUE,7.9
+Howard Brent Means Jr.,15/02/15,shot,gun,34,M,MS,FALSE,23.5
+Bruce Steward,15/02/15,shot,hatchet,34,M,OR,TRUE,32.8
+Lawrence Caldwell,16/02/15,shot,gun,56,M,AZ,FALSE,12.8
+Michael K. Casper,16/02/15,shot,gun,26,M,ID,FALSE,29.8
+Cody Evans,16/02/15,shot,toy weapon,24,M,UT,TRUE,10.7
+Betty Sexton,17/02/15,shot,gun,43,F,NC,FALSE,25.8
+Michael Ireland,17/02/15,shot,unarmed,31,M,MO,FALSE,11.7
+Matthew Lundy,17/02/15,shot,gun,32,M,MI,FALSE,18.1
+Douglas Sparks,17/02/15,shot,toy weapon,30,M,MA,FALSE,38.1
+Pedro Juan Saldivar,17/02/15,shot,vehicle,50,M,TX,FALSE,20.01
+Janisha Fonville,18/02/15,shot,undetermined,20,F,NC,TRUE,21.9
+Alejandro Salazar,20/02/15,shot,gun,21,M,TX,FALSE,8.5
+Ruben Villalpando,20/02/15,shot,unarmed,31,M,TX,FALSE,9.3
+Stanley Lamar Grant,20/02/15,shot,gun,38,M,AL,FALSE,28.8
+Douglas Harris,20/02/15,shot,gun,77,M,AL,TRUE,24.5
+Jason Moncrief Carter,21/02/15,shot,gun,41,M,NM,FALSE,11.2
+Kent Norman,21/02/15,shot,knife,51,M,IN,FALSE,3.6
+Bradford Leonard,22/02/15,shot,gun,50,M,FL,FALSE,12.9
+Jerome Nichols,23/02/15,shot and Tasered,knife,42,M,PA,FALSE,48
+Daniel Elrod,23/02/15,shot and Tasered,unarmed,39,M,NE,FALSE,5.1
+Robert Kohl,23/02/15,shot,gun,47,M,LA,TRUE,21.2
+Michael Wayne Smashey,23/02/15,shot,knife,37,M,GA,FALSE,28.1
+Anthony Giaquinta,23/02/15,shot,gun,41,M,GA,FALSE,0
+A'Donte Washington,23/02/15,shot,gun,16,M,AL,FALSE,31
+Joseph Biegert,24/02/15,shot and Tasered,knife,30,M,WI,TRUE,27.9
+Glenn Lewis,25/02/15,shot,vehicle,27,M,OK,FALSE,16.7
+Francis Spivey,25/02/15,shot,gun,43,M,NV,TRUE,17.2
+Alexander Phillip Long,26/02/15,shot and Tasered,unarmed,31,M,IN,FALSE,19.1
+David Cuevas,26/02/15,shot,gun,42,M,FL,FALSE,27.5
+Amilcar Perez-Lopez,26/02/15,shot,knife,21,M,CA,FALSE,34.9
+Rodney Biggs,26/02/15,shot,unarmed,49,M,MS,FALSE,30.3
+Crystal Lee Miley Harry,26/02/15,shot,gun,34,F,GA,FALSE,7.7
+Ernesto Javiar Canepa Diaz,27/02/15,shot,unarmed,27,M,CA,FALSE,24.2
+Chazsten Freeman,28/02/15,shot,gun,24,M,SC,FALSE,30.6
+Deven Guilford,28/02/15,shot and Tasered,unarmed,17,M,MI,FALSE,0
+Thomas Allen,28/02/15,shot,unarmed,34,M,MO,FALSE,13.4
+Jessica Uribe,28/02/15,shot,knife,28,F,AZ,FALSE,26.5
+Cornelius J. Parker,28/02/15,shot,gun,28,M,MO,FALSE,5.1
+Ian Sherrod,28/02/15,shot,gun,40,M,NC,TRUE,4.5
+Stephanie Hill,28/02/15,shot,gun,37,F,AZ,FALSE,31.1
+Donald Lewis Matkins,01/03/15,shot,gun,49,M,MS,FALSE,15.8
+Charly Leundeu Keunang,01/03/15,shot and Tasered,unarmed,43,M,CA,TRUE,37.8
+Hung Trieu,01/03/15,shot,gun,35,M,TX,FALSE,11.2
+Shaquille Barrow,02/03/15,shot,gun,20,M,IL,FALSE,30
+Fednel Rhinvil,03/03/15,shot,gun,25,M,MD,FALSE,0
+Matthew Metz,03/03/15,shot,knife,25,M,AZ,FALSE,8.2
+Derek Cruice,04/03/15,shot,unarmed,26,M,FL,FALSE,16.3
+Carl Lao,04/03/15,shot,gun,28,M,CA,FALSE,24.8
+Tyrone Ryerson Lawrence,05/03/15,shot,knife,45,M,WI,TRUE,32.3
+Sergio Alexander Navas,05/03/15,shot,unarmed,36,M,CA,FALSE,25.3
+Tyson Hubbard,05/03/15,shot,gun,34,M,NE,FALSE,0
+Naeschylus  Vinzant,06/03/15,shot,unarmed,37,M,CO,FALSE,32.7
+Andrew Anthony Williams,06/03/15,shot,vehicle,48,M,FL,FALSE,11.1
+Tony Robinson,06/03/15,shot,unarmed,19,M,WI,FALSE,52.6
+Adam Reinhart,07/03/15,shot,gun,29,M,AZ,FALSE,18.6
+Aurelio Duarte,08/03/15,shot,gun,40,M,OK,FALSE,23.4
+Michael McKillop,08/03/15,shot,vehicle,35,M,DE,FALSE,0
+Monique Jenee Deckard,08/03/15,shot,knife,43,F,CA,TRUE,11.2
+Lester Brown,09/03/15,shot,gun,58,M,NC,FALSE,23.1
+James Brent Damon,09/03/15,shot,gun,46,M,CO,FALSE,26
+Cedrick Lamont Bishop,09/03/15,shot,gun,30,M,FL,FALSE,30.2
+Anthony Hill,09/03/15,shot,unarmed,27,M,GA,TRUE,25.9
+Jamie Croom,10/03/15,shot,gun,31,M,LA,FALSE,15.3
+Christopher Mitchell,10/03/15,shot,knife,23,M,GA,FALSE,15.5
+Edixon  Franco,10/03/15,shot,sword,37,M,CA,TRUE,20.4
+Theodore Johnson,10/03/15,shot,gun,64,M,OH,FALSE,30.2
+James Greenwell,11/03/15,shot,gun,31,M,TN,TRUE,30.1
+Benito Osorio,11/03/15,shot,gun,39,M,CA,FALSE,24.6
+Ryan Dean Burgess,11/03/15,shot,toy weapon,31,M,AZ,TRUE,18.9
+Aaron Valdez,11/03/15,shot,vehicle,25,M,CA,FALSE,17
+Gilbert Fleury,11/03/15,shot,gun,54,M,AL,FALSE,48.1
+William Russell  Smith,11/03/15,shot,gun,53,M,AL,TRUE,30.2
+Terry Garnett Jr.,11/03/15,shot,vehicle,37,M,MD,FALSE,19
+Bobby Gross,12/03/15,shot,unarmed,35,M,DC,TRUE,8
+Fred  Liggett,13/03/15,shot,gun,59,M,MO,FALSE,6.6
+Andrew Driver,13/03/15,shot,knife,36,M,CA,FALSE,18.4
+Antonio Perez,13/03/15,shot,unarmed,32,M,CA,FALSE,31.3
+James Richard Jimenez,13/03/15,shot,gun,41,M,CA,FALSE,33
+Richard Castilleja,14/03/15,shot,gun,29,M,TX,TRUE,13.5
+Clifton Reintzel,14/03/15,shot,knife,53,M,WV,FALSE,19.9
+Aaron Siler,14/03/15,shot,gun,26,M,WI,FALSE,14
+Troy Ray Boyd,15/03/15,shot,machete,27,M,MS,FALSE,12.8
+Justin Tolkinen,16/03/15,shot,gun,28,M,MN,TRUE,29.4
+William Dean Poole,16/03/15,shot,gun,52,M,NC,TRUE,40.9
+Eugene Smith,17/03/15,shot,gun,20,M,TX,TRUE,3.9
+Roberto Leon,17/03/15,shot,unarmed,22,M,CA,FALSE,8.3
+Andrew Charles Shipley,17/03/15,shot,gun,49,M,OR,TRUE,19.3
+Declan Owen,17/03/15,shot,gun,24,M,NC,FALSE,7.8
+Alice Brown,17/03/15,shot,vehicle,24,F,CA,TRUE,19.3
+Jeff Alexander,18/03/15,shot,knife,47,M,CA,FALSE,19.5
+Kaylene Stone,18/03/15,shot,gun,49,F,AZ,FALSE,30.3
+Garland Lee Wingo,18/03/15,shot,gun,64,M,FL,FALSE,35.5
+Kendre Alston,19/03/15,shot,gun,16,M,FL,FALSE,13.8
+Jamison  Childress,19/03/15,shot,unarmed,20,M,WA,TRUE,21.5
+Robert Burdge,19/03/15,shot,gun,36,M,CA,FALSE,21.4
+Shane Watkins,19/03/15,shot,box cutter,39,M,AL,TRUE,11.1
+Brandon Jones,19/03/15,shot,unarmed,18,M,OH,FALSE,13.6
+Brandon Rapp,19/03/15,shot,gun,31,M,ID,FALSE,9.3
+Justin Fowler,20/03/15,shot,gun,24,M,AZ,FALSE,15.2
+Richard White,20/03/15,shot,machete,63,M,LA,TRUE,32.2
+Tyrel Vick,20/03/15,shot,gun,34,M,OK,FALSE,26.3
+James Ellis,21/03/15,shot,gun,44,M,NY,FALSE,26.9
+Gary Page,21/03/15,shot,gun,60,M,IN,TRUE,39.2
+Jason Smith,21/03/15,shot,gun,42,M,OH,FALSE,31.9
+Enoch Gaver,21/03/15,shot,gun,21,M,AZ,FALSE,4.5
+Phillip Conley,22/03/15,shot,knife,37,M,CA,TRUE,6.4
+Christopher Ryan Healy,22/03/15,shot and Tasered,knife,36,M,OR,TRUE,7.2
+Denzel Brown,22/03/15,shot and Tasered,undetermined,21,M,NY,FALSE,8.9
+Devin Gates,23/03/15,shot,gun,24,M,CA,FALSE,17.4
+Stephen Snyder,24/03/15,shot,gun,38,M,WI,FALSE,39.3
+Walter J. Brown III,24/03/15,shot,gun,29,M,VA,TRUE,25.8
+Scott Dunham,24/03/15,shot,gun,57,M,CA,TRUE,19.1
+Nicholas Thomas,25/03/15,shot,undetermined,23,M,GA,FALSE,26.1
+Jeremy Lorenza Kelly,25/03/15,shot,gun,27,M,SC,FALSE,37.5
+Victor Terrazas,25/03/15,shot,gun,28,M,CA,FALSE,0
+Joseph Tassinari,25/03/15,shot and Tasered,gun,63,M,AZ,TRUE,16.6
+Deanne Choate,26/03/15,shot,gun,53,F,KS,FALSE,16.2
+Adrian Solis,26/03/15,shot,knife,35,M,CA,TRUE,30.8
+Gary Kendrick,27/03/15,shot,gun,56,M,CA,TRUE,11.1
+Jamalis Hall,27/03/15,shot,knife,39,M,FL,FALSE,25.7
+Adrian Hernandez,27/03/15,shot,toy weapon,23,M,CA,FALSE,17.8
+Neil Seifert,27/03/15,shot,gun,40,M,MA,FALSE,8.3
+Megan Hockaday,27/03/15,shot,knife,26,F,CA,FALSE,26.8
+Harvey Oates,27/03/15,shot,gun,42,M,WV,FALSE,18.5
+Angelo West,27/03/15,shot,gun,41,M,MA,FALSE,8
+Robert Rooker,29/03/15,shot,vehicle,26,M,OH,FALSE,25.8
+Byron Herbert,29/03/15,shot,gun,29,M,KY,FALSE,18.8
+Brian Babb,30/03/15,shot,gun,49,M,OR,TRUE,36.7
+John Marcell Allen,30/03/15,shot,gun,54,M,NV,FALSE,6.9
+Jeremy Anderson,31/03/15,shot,gun,36,M,FL,FALSE,5.5
+Benjamin Quezada,31/03/15,shot,toy weapon,21,M,TX,FALSE,0
+Mya Hall,31/03/15,shot,vehicle,27,F,MD,FALSE,7.9
+Robert Washington,01/04/15,shot,gun,37,M,CA,FALSE,44.4
+Shawn Clyde,01/04/15,shot,knife,36,M,NJ,FALSE,14.9
+Darrin Langford,02/04/15,shot,gun,32,M,IL,FALSE,13.1
+Donald Hicks,02/04/15,shot and Tasered,gun,63,M,IL,TRUE,32.5
+Eric Harris,02/04/15,shot,unarmed,44,M,OK,FALSE,22.6
+Aaron Rutledge,02/04/15,shot,gun,27,M,LA,TRUE,2.1
+Christopher Prevatt,03/04/15,shot,knife,38,M,VA,FALSE,19.4
+Justus Howell,04/04/15,shot,gun,17,M,IL,FALSE,9.2
+Walter Scott,04/04/15,shot and Tasered,unarmed,50,M,SC,FALSE,2
+Paul Anderson,04/04/15,shot,gun,31,M,CA,FALSE,17.6
+Ethan Noll,04/04/15,shot,gun,34,M,NM,TRUE,23.2
+Ken Cockerel,05/04/15,shot,knife,51,M,AZ,TRUE,0
+Richard Hanna,05/04/15,shot,gun,56,M,CA,FALSE,41.3
+Alexander Myers,06/04/15,shot,gun,23,M,IN,TRUE,26.9
+Desmond Willis,06/04/15,shot,gun,25,M,LA,FALSE,13.7
+Tyrell J. Larsen,06/04/15,shot,gun,31,M,ID,FALSE,24.4
+Erick Rose,07/04/15,shot,gun,32,M,OK,FALSE,29
+Douglas Faith,08/04/15,shot,gun,60,M,TX,FALSE,19
+Dexter Pernell Bethea,08/04/15,shot,vehicle,42,M,GA,FALSE,20.3
+Roberto Rodriguez,08/04/15,shot,gun,39,M,CA,FALSE,46.4
+Joseph Jeremy Weber,08/04/15,shot,knife,28,M,CA,TRUE,11.1
+Mark Smith,09/04/15,shot and Tasered,vehicle,54,M,OK,FALSE,12.7
+Gordon Kimbrell,09/04/15,shot,sword,22,M,FL,FALSE,6
+Don Smith,09/04/15,shot,gun,29,M,IN,FALSE,10.2
+Jess Leipold,09/04/15,shot,gun,31,M,PA,TRUE,14.3
+Phillip Burgess,09/04/15,shot,gun,28,M,SC,FALSE,16.3
+Angel Cresencio Corona,10/04/15,shot,knife,21,M,CA,FALSE,18.2
+Richard Reed,10/04/15,shot,gun,38,M,KS,FALSE,46
+Donald Allen,11/04/15,shot,gun,66,M,OK,TRUE,14.7
+Mack Long,12/04/15,shot,gun,36,M,IN,FALSE,15.4
+Richard Dale Weaver,12/04/15,shot,machete,83,M,OK,TRUE,4.4
+Jason Lee Evans,12/04/15,shot,gun,32,M,NC,TRUE,20.5
+Isaac Jimenez,13/04/15,shot,gun,27,M,IL,FALSE,0
+Colby Robinson,14/04/15,shot,undetermined,26,M,TX,FALSE,24.7
+Christopher Grant Finley,14/04/15,shot,machete,31,M,AR,TRUE,26.1
+Tevin Barkley,15/04/15,shot,gun,22,M,FL,FALSE,31.2
+Dante Noble,15/04/15,shot,knife,41,M,SC,FALSE,22.3
+Frank Shephard,15/04/15,shot,unarmed,41,M,TX,FALSE,24.9
+Mark W. Adair,15/04/15,shot,toy weapon,51,M,MO,FALSE,0
+Stanley Watson,15/04/15,shot,gun,72,M,CO,TRUE,25.3
+Ernesto Flores,15/04/15,shot,toy weapon,52,M,CA,TRUE,29.8
+Rodolfo Velazquez,16/04/15,shot,knife,47,M,CA,FALSE,10.9
+Jeffrey Kemp,17/04/15,shot,gun,18,M,IL,FALSE,17.7
+Elias Cavazos,17/04/15,shot,gun,29,M,CA,FALSE,6.3
+Thaddeus McCarroll,17/04/15,shot,knife,23,M,MO,TRUE,16.2
+Erik Tellez,18/04/15,shot,gun,43,M,AZ,TRUE,30.2
+Grover Sapp,18/04/15,shot,gun,45,M,FL,FALSE,26
+Michael Foster,19/04/15,shot,gun,40,M,KY,TRUE,24.8
+Dana Hlavinka,19/04/15,shot,knife,44,M,NE,FALSE,13.5
+Santos Cortez Hernandez,20/04/15,shot,gun,25,M,TX,FALSE,2.2
+Daniel Wolfe,21/04/15,shot,vehicle,35,M,NJ,FALSE,29.8
+Daniel Covarrubias,21/04/15,shot,unarmed,37,M,WA,TRUE,24.6
+Kimber Key,21/04/15,shot,knife,59,M,SC,TRUE,15.4
+Luis Martinez,21/04/15,shot,knife,35,M,CA,TRUE,18
+William Chapman,22/04/15,shot,unarmed,18,M,VA,FALSE,25.6
+Carlos Saavedra Ramirez,22/04/15,shot,knife,51,M,AZ,FALSE,6.7
+Jonathan Efraim,22/04/15,shot,gun,30,M,NY,TRUE,16.1
+Reginald McGregor,22/04/15,shot,gun,31,M,TX,FALSE,11.1
+Lue Vang,22/04/15,shot,gun,39,M,CO,FALSE,21.3
+Andrew Valadez,23/04/15,shot,gun,26,M,CA,TRUE,4.8
+Joseph Potts,23/04/15,shot,gun,51,M,OK,FALSE,11.6
+Hector Morejon,23/04/15,shot,unarmed,19,M,CA,FALSE,12.7
+Karen Janks,24/04/15,shot,vehicle,46,F,CA,FALSE,25.1
+Mark Cecil Hawkins,24/04/15,shot,gun,49,M,OR,FALSE,12.9
+Gary Timmie  Collins,24/04/15,shot,gun,63,M,OK,FALSE,30.6
+Todd Jamal Dye,24/04/15,shot,gun,20,M,CO,FALSE,44.9
+Brandon Lawrence,25/04/15,shot,machete,25,M,TX,TRUE,7.7
+David Felix,25/04/15,shot,unarmed,24,M,NY,TRUE,55.2
+Daniel Davis,25/04/15,shot,knife,58,M,FL,TRUE,31.8
+Billy Joe Patrick,26/04/15,shot,unarmed,29,M,OK,FALSE,14.9
+Albert Hanson,26/04/15,shot,gun,76,M,CA,FALSE,14.2
+Dean Genova,26/04/15,shot,gun,45,M,CA,FALSE,14.9
+Terrance  Kellom,27/04/15,shot,hammer,20,M,MI,FALSE,11.8
+David Parker,28/04/15,shot,gun,58,M,OH,FALSE,3.4
+Jared Johnson,28/04/15,shot,gun,21,M,LA,FALSE,20
+Joshua Green,28/04/15,shot,gun,27,M,IL,TRUE,20.3
+Andrew Jackson,29/04/15,shot,knife,26,M,OK,FALSE,27.9
+Joshua Deysie,29/04/15,shot,gun,33,M,AZ,TRUE,62.6
+Luis Chavez-Diaz,29/04/15,shot,gun,27,M,CA,FALSE,4.2
+Alexia Christian,29/04/15,shot,gun,25,F,GA,FALSE,13.7
+Jeffrey Adkins,29/04/15,shot,gun,53,M,VA,TRUE,22.5
+John Acree,29/04/15,shot,gun,53,M,TN,TRUE,40
+Fridoon Zalbeg Nehad,30/04/15,shot,unarmed,42,M,CA,TRUE,6.7
+Erick Emmanuel Sanchez,30/04/15,shot and Tasered,metal object,22,M,TX,FALSE,14.9
+Kenneth Mathena,02/05/15,shot,gun,52,M,DE,FALSE,5.3
+Kevin Vance Norton,03/05/15,shot,gun,36,M,UT,TRUE,63.7
+Elton Simpson,03/05/15,shot,gun,30,M,TX,FALSE,19.8
+Nadir Soofi,03/05/15,shot,gun,34,M,TX,FALSE,29.1
+Billy Grimm,03/05/15,shot,gun,44,M,NM,FALSE,9.9
+Michael Asher,03/05/15,shot,gun,53,M,KY,FALSE,10.1
+Roark Cook,04/05/15,shot,toy weapon,36,M,WA,TRUE,1.2
+Brendon Glenn,05/05/15,shot,unarmed,29,M,CA,FALSE,9.2
+Thong Kien Ma,05/05/15,shot,knife,32,M,CA,FALSE,6.5
+Robert A. Frost,05/05/15,shot,gun,46,M,VA,TRUE,46.9
+David William Johnson,06/05/15,shot,gun,18,M,NC,FALSE,60.5
+Joseph Roy,07/05/15,shot,knife,72,M,GA,TRUE,10.9
+Michael Murphy,07/05/15,shot,knife,38,M,NY,FALSE,15.4
+Nephi Arriguin,07/05/15,shot,vehicle,21,M,CA,FALSE,20.1
+Shaun Johnson,08/05/15,shot,sword,35,M,AZ,FALSE,31.5
+David Schwalm,08/05/15,shot,gun,58,M,NY,TRUE,43.1
+Dedrick Marshall,08/05/15,shot,gun,48,M,LA,FALSE,26
+Sam Holmes,08/05/15,shot,vehicle,31,M,MN,FALSE,11.6
+Stephen  Cunningham,10/05/15,shot,gun,47,M,WA,FALSE,8.8
+Lionel Lorenzo Young,10/05/15,shot,vehicle,34,M,MD,FALSE,22.4
+Kelvin Goldston,11/05/15,shot,vehicle,30,M,TX,FALSE,26
+Justin Way,11/05/15,shot,machete,28,M,FL,TRUE,10.8
+D'Angelo Stallworth,12/05/15,shot,gun,28,M,FL,FALSE,23.3
+Bruce Zalonka,12/05/15,shot and Tasered,gun,46,M,HI,FALSE,36.7
+Alec Ouzounian,12/05/15,shot,undetermined,40,M,CA,TRUE,25.5
+Sean Michael Pelletier,14/05/15,shot,gun,37,M,MI,TRUE,24.1
+Cary Martin,14/05/15,shot,gun,53,M,FL,TRUE,9.9
+Mark Farrar,15/05/15,shot,gun,41,M,IL,TRUE,11.1
+Matt Coates,15/05/15,shot,toy weapon,42,M,CA,TRUE,0
+Ronell Wade,16/05/15,shot,gun,45,M,IL,FALSE,5.8
+Dennis  Fiel,17/05/15,shot,gun,34,M,CA,TRUE,9.5
+Austin Goodner,17/05/15,shot,gun,18,M,FL,TRUE,55.8
+Timothy Jones,17/05/15,shot,sword,27,M,NM,FALSE,24.3
+Alfredo Rials-Torres,19/05/15,shot,unarmed,54,M,VA,FALSE,18.7
+Jonathan McIntosh,19/05/15,shot,gun,35,M,AR,FALSE,3
+David  Gaines,19/05/15,shot,gun,17,M,CO,FALSE,1.7
+Anthony Gomez,20/05/15,shot,gun,29,M,PA,FALSE,11
+Jonathan  Colley,20/05/15,shot and Tasered,knife,52,M,OH,FALSE,31.3
+Chrislon Talbott,20/05/15,shot,gun,38,M,KY,FALSE,12.9
+Nikki Jo Burtsfield,20/05/15,shot and Tasered,knife,39,F,WY,FALSE,30.5
+Marcus Wheeler,20/05/15,shot,gun,26,M,NE,FALSE,18.8
+David Alejandro Gandara,21/05/15,shot,gun,22,M,TX,TRUE,10.7
+Javoris Washington,21/05/15,shot,knife,29,M,FL,FALSE,7
+James Anthony Cooper,21/05/15,shot,knife,43,M,SC,FALSE,29.7
+Elvin Diaz,21/05/15,shot,knife,24,M,NJ,TRUE,0
+Jerome Caldwell,21/05/15,shot,gun,32,M,SC,FALSE,21.7
+Michael Lowery,22/05/15,shot,toy weapon,40,M,PA,FALSE,2.3
+Caso Jackson,23/05/15,shot,gun,25,M,MI,FALSE,26.2
+James Horn,23/05/15,shot,gun,47,M,MO,FALSE,18.3
+Eric Robinson,23/05/15,shot,gun,40,M,AZ,FALSE,1.9
+Cassandra Bolin,25/05/15,shot,gun,31,F,TX,TRUE,35
+Anthony Briggs,25/05/15,shot,knife,36,M,AL,TRUE,20.9
+Millard Tallant III,26/05/15,shot,gun,62,M,WA,TRUE,14.8
+Dalton Branch,26/05/15,shot,gun,51,M,NY,FALSE,0
+Jessie  Williams,26/05/15,shot,undetermined,24,M,LA,FALSE,9.6
+Scott McAllister,27/05/15,shot,knife,39,M,NJ,FALSE,17.7
+Garrett  Sandeno,27/05/15,shot,toy weapon,24,M,OK,TRUE,27.9
+Harry Davis,27/05/15,shot,knife,57,M,GA,TRUE,21
+Feras Morad,27/05/15,shot and Tasered,unarmed,20,M,CA,FALSE,22.4
+Simon Hubble,27/05/15,shot and Tasered,screwdriver,33,M,CA,TRUE,11.7
+Darrell Morgan,28/05/15,shot,gun,60,M,SC,FALSE,13.7
+James Strong,28/05/15,shot,gun,32,M,CO,FALSE,29.5
+Kenneth Dothard,28/05/15,shot,gun,40,M,GA,FALSE,13.1
+Kyle Baker,28/05/15,shot and Tasered,lawn mower blade,18,M,MI,FALSE,72.7
+Kevin Allen,29/05/15,shot,knife,36,M,NJ,FALSE,21.4
+Nehemiah Fischer,29/05/15,shot,gun,35,M,OK,FALSE,16.2
+Robert Box,29/05/15,shot,gun,55,M,OR,FALSE,14.8
+Ebin Lamont Proctor,30/05/15,shot,unarmed,19,M,AZ,FALSE,12.8
+Alexander Tirado Rivera,30/05/15,shot,toy weapon,39,M,TN,FALSE,23.4
+James Anthony Morris,31/05/15,shot,gun,40,M,OR,TRUE,23
+James Bushey,31/05/15,shot,toy weapon,47,M,TX,FALSE,25.9
+Joseph Ladd,01/06/15,shot,gun,23,M,NY,TRUE,10.5
+Usaamah Rahim,02/06/15,shot,knife,26,M,MA,FALSE,37.3
+Kamal Dajani,02/06/15,shot,knife,26,M,TX,TRUE,30.12
+Lorenzo Garza,03/06/15,shot,gun,46,M,CA,FALSE,9.5
+Rudy Baca,03/06/15,shot and Tasered,unarmed,36,M,NM,FALSE,11.7
+Miguel Martinez,03/06/15,shot,gun,18,M,TX,TRUE,23.1
+Edelmiro Hernandez,03/06/15,shot,knife,33,M,TX,FALSE,35.6
+Ronald Neal,03/06/15,shot,gun,56,M,NJ,TRUE,40.6
+Jesus Quezada Gomez,05/06/15,shot,gun,50,M,CA,FALSE,15.8
+Christie Cathers,05/06/15,shot,vehicle,45,F,WV,FALSE,4.6
+Demouria Hogg,06/06/15,shot and Tasered,gun,30,M,CA,FALSE,20.8
+James Smillie,06/06/15,shot,gun,53,M,FL,FALSE,34.9
+Alejandro Campos Fernandez,06/06/15,shot,gun,45,M,CA,FALSE,30.9
+Joe Nevels,06/06/15,shot,box cutter,42,M,TX,TRUE,39.5
+Damien Ramirez,06/06/15,shot,gun,27,M,CO,FALSE,17.7
+Matthew Wayne McDaniel,07/06/15,shot,gun,36,M,FL,FALSE,14.2
+Gene Marshall,07/06/15,shot,gun,58,M,WA,TRUE,0
+James Johnson,08/06/15,shot,gun,54,M,IN,TRUE,21
+Rene Garcia,08/06/15,shot,knife,30,M,CA,TRUE,34.4
+Richard Warolf,08/06/15,shot,gun,69,M,AZ,TRUE,22.4
+Jeremy Linhart,09/06/15,shot,unarmed,30,M,OH,FALSE,25.6
+Greg  Hartley,09/06/15,shot,gun,45,M,TX,FALSE,2.3
+QuanDavier Hicks,09/06/15,shot,gun,22,M,OH,FALSE,13
+Ryan Bolinger,09/06/15,shot,unarmed,28,M,IA,FALSE,20.1
+Isiah Hampton,10/06/15,shot,gun,19,M,NY,FALSE,48.5
+Charles Ziegler,11/06/15,shot,gun,40,M,FL,FALSE,9.6
+Raymond  Phillips,11/06/15,shot,gun,86,M,TN,TRUE,44.7
+Fritz Severe,11/06/15,shot,undetermined,46,M,FL,FALSE,5.8
+Mark Flores,11/06/15,shot,gun,28,M,TX,TRUE,31.9
+Raymond Peralta-Lantigua,11/06/15,shot,knife,22,M,NJ,TRUE,6.4
+Shelly Haendiges,12/06/15,shot,toy weapon,17,F,IN,TRUE,8.2
+Anthony Hodge,13/06/15,shot,gun,46,M,IN,FALSE,12.1
+Deng Manyoun,13/06/15,shot,flagpole,35,M,KY,FALSE,24.2
+James Boulware,13/06/15,shot,guns and explosives,35,M,TX,TRUE,31.5
+Kenneth Garcia,14/06/15,shot,vehicle,28,M,CA,FALSE,11.5
+Zane Terryn,14/06/15,shot,gun,15,M,FL,TRUE,5.8
+Kris Jackson,15/06/15,shot,unarmed,22,M,CA,FALSE,36.3
+Christopher DeLeon,16/06/15,shot,gun,28,M,CA,FALSE,10.8
+Joe Charboneau,16/06/15,shot,gun,31,M,ND,FALSE,30
+Wendy Chappell,17/06/15,shot,gun,40,F,AL,FALSE,17
+Kenneth Lanphier,17/06/15,shot,gun,48,M,NM,TRUE,17.7
+Oleg Tcherniak,18/06/15,shot,knife,58,M,NY,FALSE,16.7
+Santos Laboy,19/06/15,shot,knife,44,M,MA,TRUE,5.8
+Trepierre Hummons,19/06/15,shot,gun,21,M,OH,TRUE,5.8
+Louis Atencio,19/06/15,shot,gun,50,M,CO,FALSE,29.9
+Alfontish Cockerham,20/06/15,shot,gun,23,M,IL,FALSE,5.9
+Adrian Simental,21/06/15,shot,unarmed,24,M,CA,TRUE,17.6
+Charles  Marshall,21/06/15,shot,cordless drill,49,M,TX,TRUE,9.8
+James Monroe Barrett,22/06/15,shot,gun,60,M,NC,FALSE,13.7
+Eduardo Reyes,22/06/15,shot,gun,35,M,CA,FALSE,0
+Tyler Wicks,22/06/15,shot,gun,29,M,GA,TRUE,39.9
+Tyrone Harris,22/06/15,shot,gun,20,M,PA,FALSE,9.5
+Joshua Dyer,23/06/15,shot,unarmed,34,M,IN,FALSE,34.6
+Jonathan Wilson,23/06/15,shot,knife,22,M,KS,FALSE,35.9
+Randall Waddel,23/06/15,shot,knife,49,M,TX,TRUE,20.5
+Taylor Culbertson,23/06/15,shot,gun,32,M,NE,FALSE,4.8
+Damien A. Harrell,24/06/15,shot,gun,26,M,VA,FALSE,15.9
+Spencer McCain,25/06/15,shot,unarmed,41,M,MD,TRUE,20.3
+Gilbert Jake Vanderburgh,25/06/15,shot,gun,61,M,CA,FALSE,10.6
+Richard Matt,26/06/15,shot,gun,49,M,NY,FALSE,8.1
+Joe Angel Cisneros,26/06/15,shot,gun,28,M,TX,FALSE,38.1
+Joshua Crittenden,27/06/15,shot,gun,35,M,OK,FALSE,36.7
+Alan  Bellew,28/06/15,shot,toy weapon,29,M,OR,FALSE,0
+Richard LaPort,29/06/15,shot,gun,51,M,NY,TRUE,28.7
+Clay Alan  Lickteig,30/06/15,shot,gun,52,M,NC,FALSE,11.4
+Kevin Lamont Judson,01/07/15,shot,vehicle,24,M,OR,FALSE,34.4
+Kaleb Landon,01/07/15,shot,gun,32,M,OR,FALSE,13.5
+Douglas Buckley,02/07/15,shot,toy weapon,45,M,MA,TRUE,5
+Ton Nguyen,02/07/15,shot,knife,60,M,CA,FALSE,25.9
+Victor Emanuel Larosa,02/07/15,shot,unarmed,23,M,FL,FALSE,17.9
+Brian Johnson,02/07/15,shot,crossbow,59,M,WV,TRUE,39.6
+Cesar A. Limon Juarez,03/07/15,shot and Tasered,knife,27,M,CA,FALSE,5.9
+Arturo Lopez,03/07/15,shot,gun,46,M,CA,FALSE,17.5
+Oscar Camacho,03/07/15,shot,gun,33,M,NJ,TRUE,11.2
+Joseph Julian,03/07/15,shot,gun,40,M,FL,FALSE,12.5
+Robert Elando Malone,04/07/15,shot,gun,42,M,OK,FALSE,10.3
+Michael Shannon Gaby,04/07/15,shot,gun,37,M,TN,FALSE,16
+Kawanza Beaty,04/07/15,shot,gun,23,M,VA,FALSE,25.9
+Bryan David Bauer,04/07/15,shot,gun,36,M,NV,FALSE,41.9
+John Deming,05/07/15,shot,unarmed,19,M,CA,FALSE,45.5
+Michael Holt,05/07/15,shot,gun,35,M,TX,FALSE,19.2
+Richard Munroe,05/07/15,shot and Tasered,toy weapon,25,M,TX,TRUE,25
+Johnny Ray Anderson,05/07/15,shot,unarmed,43,M,CA,FALSE,36.8
+Tyler Rogers,06/07/15,shot,gun,20,M,OK,FALSE,13.7
+Hagen Esty-Lennon,06/07/15,shot,knife,42,M,NH,TRUE,2.6
+David Oliva Sarabia,06/07/15,shot and Tasered,knife,42,M,CA,FALSE,12.9
+John Leonard Berry,06/07/15,shot and Tasered,vehicle,31,M,CA,TRUE,17.02
+Jason Hendley,06/07/15,shot,knife,29,M,CA,FALSE,7.5
+Marcellus Jamarcus Burley,07/07/15,shot,gun,18,M,TX,FALSE,8.6
+Adam Dujanovic,07/07/15,shot,metal pole,33,M,AZ,FALSE,15.2
+Joe Cody,07/07/15,shot,gun,59,M,TX,FALSE,19.4
+Daniel Hernandez,07/07/15,shot,gun,47,M,CA,FALSE,17.7
+Jose Graciano Lopez,07/07/15,shot,gun,39,M,TX,TRUE,13.5
+Tremaine Dantzler,07/07/15,shot,knife,37,M,NJ,FALSE,5
+Nicholas Booth,07/07/15,shot,gun,35,M,MO,FALSE,11
+Joshua Blough,07/07/15,shot,knife,28,M,KY,FALSE,18.7
+Michael Terence Westrich,08/07/15,shot,gun,59,M,OR,FALSE,4.7
+Dallas Shatley,08/07/15,shot,vehicle,62,M,NC,FALSE,32.8
+Rocco Joseph Palmisano,09/07/15,shot,gun,50,M,UT,FALSE,7.8
+Robert Hammonds,09/07/15,shot,gun,68,M,AZ,FALSE,20.7
+Martice Milliner,09/07/15,shot,gun,27,M,IL,FALSE,9.3
+Cyrus Hurtado,09/07/15,shot,gun,17,M,CA,TRUE,30.12
+Neil White,09/07/15,shot and Tasered,Taser,38,M,CA,FALSE,30.12
+Javon Hawkins,09/07/15,shot,sword,21,M,MO,FALSE,7
+James Michael Todora,10/07/15,shot,gun,54,M,NV,TRUE,17.5
+Freddie Blue,10/07/15,shot,gun,20,M,GA,FALSE,8.5
+Eugene McSwain,10/07/15,shot,gun,25,M,IL,FALSE,24.5
+Billy Maine,11/07/15,shot,gun,31,M,CA,FALSE,17.5
+Paul Castaway,12/07/15,shot,knife,35,M,CO,TRUE,1.4
+Salvado Ellswood,12/07/15,shot and Tasered,unarmed,36,M,FL,FALSE,26.4
+David Lepine,12/07/15,shot,gun,60,M,TX,FALSE,17.6
+Matthew Watson,12/07/15,shot,gun,24,M,IL,FALSE,11.2
+Christopher Benton,12/07/15,shot,gun,27,M,WY,FALSE,20.6
+Frederick Farmer,13/07/15,shot,gun,20,M,GA,FALSE,1.6
+Matthew Ryan Graham,13/07/15,shot,gun,24,M,CA,FALSE,29.8
+Rafael Suazo,13/07/15,shot,vehicle,23,M,MA,FALSE,17.9
+Jason Davis,13/07/15,shot and Tasered,box cutter,41,M,CA,FALSE,5.3
+Chacarion Avant,14/07/15,shot,gun,20,M,FL,FALSE,27.2
+Charles Crandall,14/07/15,shot,gun,76,M,OH,FALSE,12.5
+Eugene Kailing,15/07/15,shot and Tasered,metal pipe,43,M,MI,TRUE,17.1
+Anthonie Smith,16/07/15,shot and Tasered,metal hand tool,25,M,CA,TRUE,31.8
+Antonio Gonzalez,16/07/15,shot,sword,29,M,WI,TRUE,19.6
+Edward Foster III,16/07/15,shot,gun,35,M,FL,FALSE,12.2
+Patrick Stephen Pippin,16/07/15,shot,gun,30,M,KS,FALSE,18.3
+Mohammad Youssef Abdulazeez,16/07/15,shot,gun,24,M,TN,TRUE,13.3
+Saige Hack,16/07/15,shot,gun,23,M,WY,FALSE,19.2
+Pierre Gabriel Koellner,16/07/15,shot,gun,29,M,AL,FALSE,70.8
+Samuel Smith,17/07/15,shot,knife,27,M,WA,FALSE,12.1
+Albert Joseph Davis,17/07/15,shot and Tasered,unarmed,23,M,FL,FALSE,17.7
